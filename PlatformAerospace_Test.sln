@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlatformAerospace_Test", "PlatformAerospace_Test\PlatformAerospace_Test.vcxproj", "{38B58030-B2BB-4B09-9F8C-85F61F24C67D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlatformAerospace_UnitTests", "PlatformAerospace_UnitTests\PlatformAerospace_UnitTests.vcxproj", "{4B38B963-E55F-4D6F-9C4C-4643487DBFEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B58030-B2BB-4B09-9F8C-85F61F24C67D}.Debug|x64.ActiveCfg = Debug|x64
+		{38B58030-B2BB-4B09-9F8C-85F61F24C67D}.Debug|x64.Build.0 = Debug|x64
+		{38B58030-B2BB-4B09-9F8C-85F61F24C67D}.Debug|x86.ActiveCfg = Debug|Win32
+		{38B58030-B2BB-4B09-9F8C-85F61F24C67D}.Debug|x86.Build.0 = Debug|Win32
+		{38B58030-B2BB-4B09-9F8C-85F61F24C67D}.Release|x64.ActiveCfg = Release|x64
+		{38B58030-B2BB-4B09-9F8C-85F61F24C67D}.Release|x64.Build.0 = Release|x64
+		{38B58030-B2BB-4B09-9F8C-85F61F24C67D}.Release|x86.ActiveCfg = Release|Win32
+		{38B58030-B2BB-4B09-9F8C-85F61F24C67D}.Release|x86.Build.0 = Release|Win32
+		{4B38B963-E55F-4D6F-9C4C-4643487DBFEF}.Debug|x64.ActiveCfg = Debug|x64
+		{4B38B963-E55F-4D6F-9C4C-4643487DBFEF}.Debug|x64.Build.0 = Debug|x64
+		{4B38B963-E55F-4D6F-9C4C-4643487DBFEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{4B38B963-E55F-4D6F-9C4C-4643487DBFEF}.Debug|x86.Build.0 = Debug|Win32
+		{4B38B963-E55F-4D6F-9C4C-4643487DBFEF}.Release|x64.ActiveCfg = Release|x64
+		{4B38B963-E55F-4D6F-9C4C-4643487DBFEF}.Release|x64.Build.0 = Release|x64
+		{4B38B963-E55F-4D6F-9C4C-4643487DBFEF}.Release|x86.ActiveCfg = Release|Win32
+		{4B38B963-E55F-4D6F-9C4C-4643487DBFEF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E406073B-64F5-45DA-B9DD-A1E5E4F076AB}
+	EndGlobalSection
+EndGlobal
